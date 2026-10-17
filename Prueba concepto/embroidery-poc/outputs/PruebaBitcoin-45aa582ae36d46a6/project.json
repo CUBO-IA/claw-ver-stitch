@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-10-17T19:16:44Z",
+  "updated_at": "2026-10-17T19:16:45Z",
+  "svg_path": "/home/felicito/cubo_ai/openclaw/claw-ver-stitch/Prueba concepto/embroidery-poc/outputs/embroidery-j77ijwg_/design.svg",
+  "svg_sha256": "60b7798fadea736be702dcb7677069f666ff95afeca72ef4982869541a0fa3f8",
+  "session": {
+    "hoop": {
+      "name": "60x60",
+      "width_mm": 60.0,
+      "height_mm": 60.0
+    },
+    "units": "mm",
+    "machine_target": "pes",
+    "thread_palette": null,
+    "collapse_len_mm": 3.0,
+    "min_stitch_len_mm": 0.1,
+    "inkstitch_binary": null,
+    "context": {}
+  },
+  "elements": {},
+  "history": {
+    "cursor": 1,
+    "entries": [
+      {
+        "id": "h_3DC18D30D86E4AC7BDA8A0FEB6",
+        "ts": "2026-10-17T19:16:44Z",
+        "command": "document set-hoop",
+        "scope": "project",
+        "patch": {
+          "type": "metadata_diff",
+          "before": {
+            "hoop": {
+              "width_mm": 100.0,
+              "height_mm": 100.0,
+              "name": "100x100"
+            }
+          },
+          "after": {
+            "hoop": {
+              "name": "60x60",
+              "width_mm": 60.0,
+              "height_mm": 60.0
+            }
+          }
+        }
+      },
+      {
+        "id": "h_F40641F5CB384664AB9DE5DB7E",
+        "ts": "2026-10-17T19:16:45Z",
+        "command": "document set-machine-target",
+        "scope": "project",
+        "patch": {
+          "type": "metadata_diff",
+          "before": {
+            "machine_target": "dst"
+          },
+          "after": {
+            "machine_target": "pes"
+          }
+        }
+      }
+    ]
+  }
+}

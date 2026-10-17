@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "created_at": "2026-10-17T17:03:40Z",
-  "updated_at": "2026-10-17T17:03:40Z",
-  "svg_path": "/home/felicito/cubo_ai/openclaw/claw-ver-stitch/Prueba concepto/embroidery-poc/outputs/embroidery-w2h5emt1/design.svg",
+  "created_at": "2026-10-17T19:04:00Z",
+  "updated_at": "2026-10-17T19:04:00Z",
+  "svg_path": "/home/felicito/cubo_ai/openclaw/claw-ver-stitch/Prueba concepto/embroidery-poc/outputs/embroidery-y17idoqe/design.svg",
   "svg_sha256": "14ac85a40701ccabb3f0bc2fc550de5f20c853d6a72a3e0a1eda615f9df35781",
   "session": {
     "hoop": {
@@ -23,8 +23,8 @@
     "cursor": 1,
     "entries": [
       {
-        "id": "h_701C0CD26EBA4F718C224F5048",
-        "ts": "2026-10-17T17:03:40Z",
+        "id": "h_FB0345D623B34178BB54D9B5D9",
+        "ts": "2026-10-17T19:04:00Z",
         "command": "document set-hoop",
         "scope": "project",
         "patch": {
@@ -46,8 +46,8 @@
         }
       },
       {
-        "id": "h_C56DD89B902A4E72B84B655E4F",
-        "ts": "2026-10-17T17:03:40Z",
+        "id": "h_663BF14801254B988192634B97",
+        "ts": "2026-10-17T19:04:00Z",
         "command": "document set-machine-target",
         "scope": "project",
         "patch": {

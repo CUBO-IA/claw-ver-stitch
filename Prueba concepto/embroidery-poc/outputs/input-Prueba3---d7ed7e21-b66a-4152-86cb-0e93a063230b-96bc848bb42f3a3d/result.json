@@ -1,0 +1,39 @@
+{
+  "status": "completed",
+  "version": "0.1.0",
+  "cached": false,
+  "job_id": "96bc848bb42f3a3d",
+  "source_name": "input-Prueba3---d7ed7e21-b66a-4152-86cb-0e93a063230b.eps",
+  "output_directory": "/home/felicito/cubo_ai/openclaw/claw-ver-stitch/Prueba concepto/embroidery-poc/outputs/input-Prueba3---d7ed7e21-b66a-4152-86cb-0e93a063230b-96bc848bb42f3a3d",
+  "files": [
+    "design.svg",
+    "design.pes",
+    "preview.png",
+    "project.json"
+  ],
+  "svg": {
+    "page_width_mm": 56.0,
+    "page_height_mm": 47.805,
+    "drawable_count": 242,
+    "single_color": "#000000",
+    "max_hoop_mm": [
+      60,
+      60
+    ],
+    "warning": "Dimensiones basadas en página/viewBox, no en caja exacta del dibujo."
+  },
+  "pes": {
+    "stitch_records": 8671,
+    "stitch_bounds_mm": [
+      55.2,
+      47.2
+    ],
+    "thread_entries": 1,
+    "distinct_thread_colors": 1
+  },
+  "limitations": [
+    "Monocromo sin deduplicar objetos superpuestos",
+    "La validación física de costura todavía es obligatoria",
+    "Escala por viewBox, que puede incluir margen del EPS"
+  ]
+}

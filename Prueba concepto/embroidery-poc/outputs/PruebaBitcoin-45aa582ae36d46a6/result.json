@@ -1,0 +1,39 @@
+{
+  "status": "completed",
+  "version": "0.1.0",
+  "cached": false,
+  "job_id": "45aa582ae36d46a6",
+  "source_name": "PruebaBitcoin.eps",
+  "output_directory": "/home/felicito/cubo_ai/openclaw/claw-ver-stitch/Prueba concepto/embroidery-poc/outputs/PruebaBitcoin-45aa582ae36d46a6",
+  "files": [
+    "design.svg",
+    "design.pes",
+    "preview.png",
+    "project.json"
+  ],
+  "svg": {
+    "page_width_mm": 56.0,
+    "page_height_mm": 56.0,
+    "drawable_count": 4,
+    "single_color": "#000000",
+    "max_hoop_mm": [
+      60,
+      60
+    ],
+    "warning": "Dimensiones basadas en página/viewBox, no en caja exacta del dibujo."
+  },
+  "pes": {
+    "stitch_records": 7051,
+    "stitch_bounds_mm": [
+      56.0,
+      56.0
+    ],
+    "thread_entries": 1,
+    "distinct_thread_colors": 1
+  },
+  "limitations": [
+    "Monocromo sin deduplicar objetos superpuestos",
+    "La validación física de costura todavía es obligatoria",
+    "Escala por viewBox, que puede incluir margen del EPS"
+  ]
+}
